@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Java\\cafeteria_posSystem_v1.0-Beta\\cafeteria_posSystem_v1.0-Beta\\lib\\sqlitejdbc-v056.jar",
+        "d:\\Java\\cafeteria_posSystem_v1.0-Beta\\cafeteria_posSystem_v1.0-Beta\\lib\\AbsoluteLayout.jar",
+        "c:\\Users\\sjasp\\Downloads\\miglayout-swing-5.2.jar",
+        "c:\\Users\\sjasp\\Downloads\\miglayout-core-5.2.jar",
+        "d:\\Java\\cafeteria_posSystem_v1.0-Beta\\cafeteria_posSystem_v1.0-Beta\\lib\\jcalendar-1.4.jar",
+        "AbsoluteLayout.jar",
+        "jcalendar-1.4.jar",
+        "jgoodies-common-1.2.0.jar",
+        "jgoodies-looks-2.4.1.jar",
+        "junit-4.6.jar",
+        "sqlitejdbc-v056.jar"
+    ]
+}
